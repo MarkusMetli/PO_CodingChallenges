@@ -1,0 +1,9 @@
+Some examples of declarative customizations in Salesforce are 
+flows, validation rules, processes, workflows, or UI elements
+such as reports and dashboards or page layouts. Using these 
+declarative features we can provide automation, or UI without
+the use of any hard coding and can all be done with a point 
+and click. Programatic on the other hand would be a something
+like a trigger, visualforce, or LWC's. Programatic customizations 
+use Apex and another languages and frameworks to provide an even 
+more complex customized app. 
